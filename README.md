@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasonlkm
-- 👀 I’m interested in blockchain programming and game development 
+- 👀 I’m interested in solidity,reactjs,nodejs ,unity 
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
